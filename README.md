@@ -13,6 +13,8 @@ Proactive, communicative and motivated, hungry for new challenges and opportunit
   <img align="center" alt="Wagner-PGadmin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Wagner-Intldj" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg">
   <img align="center" alt="Wagner-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+   <img align="center" alt="Wagner-VSCODE" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT64Gcpl384zH0O0d487nQbkqIVbxLcNQdgoudYRZ8d3yKTe9BuS6T5qFooWmQoOFRg2Yw&usqp=CAU"> 
+  
   
 </div>
 
@@ -33,7 +35,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<br>
+<br>
 
 <div align="center">
   <a href="https://github.com/wagnerpedroso">
@@ -41,6 +44,19 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerpedroso&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+  <br>
   
+  <div> 
+    <a href="https://www.linkedin.com/in/wagnerpedroso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href = "mailto:waagnersc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
+   <a href="https://www.instagram.com/wagnerp.sc/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://discord.com/channels/@wagner#2171" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
+     <a href="https://wagnerpedroso.github.io/index.html" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>   
+   
+    
+</div>
+
+  
+ 
 
 
