@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, my name is Wagner Pedroso, Career in development in Information Technology, focused on Analysis and Systems Development, with experience in project management, implementation and maintenance of systems, specialized technical support, administration of servers and networks.
+
+Proactive, communicative and motivated, hungry for new challenges and opportunities.
 
 <!--
 **wagnerpedroso/wagnerpedroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
