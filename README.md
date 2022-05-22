@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 
   <br>
   <br>
-  
- <a href="https://wagnerpedroso.github.io/index.html">Curriculum!</a>
+ 
 
 
