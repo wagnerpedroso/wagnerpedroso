@@ -4,8 +4,7 @@ Proactive, communicative and motivated, hungry for new challenges and opportunit
 
 
 personal website link
-
-     <a href="https://wagnerpedroso.github.io/index.html" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>    
+<a href="https://wagnerpedroso.github.io/index.html" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>    
 
 
 <div style="display: inline_block"><br>
