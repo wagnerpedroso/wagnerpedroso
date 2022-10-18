@@ -17,6 +17,7 @@ Proactive, communicative and motivated, hungry for new challenges and opportunit
    <img align="center" alt="Wagner-VSCODE" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT64Gcpl384zH0O0d487nQbkqIVbxLcNQdgoudYRZ8d3yKTe9BuS6T5qFooWmQoOFRg2Yw&usqp=CAU"> 
   
  </div>
+ 
 <!--
 **wagnerpedroso/wagnerpedroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
