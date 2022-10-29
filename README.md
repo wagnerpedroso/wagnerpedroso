@@ -1,6 +1,19 @@
-### Hello, my name is Wagner Pedroso, Career in development in Information Technology, focused on Analysis and Systems Development, with experience in project management, implementation and maintenance of systems, specialized technical support, administration of servers and networks.
+### Full-Stack developer formed by Senai - SC.
 
-Proactive, communicative and motivated, hungry for new challenges and opportunities.
+Hello, my name is Wagner Pedroso, I work in the Information Technology area, focused on Systems Analysis and Development, with experience in project management, systems implementation and maintenance, specialized technical support, server and network administration.
+I worked on some applications with high traffic and daily visits. I have solid knowledge in functional programming, DevOps, Java, HTML/CSS/JavaScript, Angular, SQL and Spring. I'm interested in application scalability, infrastructure, development best practices.
+I am developing my knowledge and skills, aiming at technical and constant improvement in new technologies and tools.
+I'm currently studying Nodejs, React, React-Native and Javascript more in depth.
+
+I like to learn new things.
+Full-Stack developer formed by Senai - SC.
+
+Hello, my name is Wagner Pedroso, I work in the Information Technology area, focused on Systems Analysis and Development, with experience in project management, systems implementation and maintenance, specialized technical support, server and network administration.
+I worked on some applications with high traffic and daily visits. I have solid knowledge in functional programming, DevOps, Java, HTML/CSS/JavaScript, Angular, SQL and Spring. I'm interested in application scalability, infrastructure, development best practices.
+I am developing my knowledge and skills, aiming at technical and constant improvement in new technologies and tools.
+I'm currently studying Nodejs, React, React-Native and Javascript more in depth.
+
+I like to learn new things.
 
 <a href="https://wagnerpedroso.github.io/index.html" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">personal website link</a>    
 
