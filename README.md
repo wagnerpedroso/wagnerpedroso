@@ -1,11 +1,24 @@
-### Full-Stack developer formed by Senai - SC.
-
-Hello, my name is Wagner Pedroso, I work in the Information Technology area, focused on Systems Analysis and Development, with experience in project management, systems implementation and maintenance, specialized technical support, server and network administration.
-I worked on some applications with high traffic and daily visits. I have solid knowledge in functional programming, DevOps, Java, HTML/CSS/JavaScript, Angular, SQL and Spring. I'm interested in application scalability, infrastructure, development best practices.
-I am developing my knowledge and skills, aiming at technical and constant improvement in new technologies and tools.
-I'm currently studying Nodejs, React, React-Native and Javascript more in depth.
-
-I like to learn new things.
+### Here, a brief description of my professional skills and previous experiences. But I emphasize that this brief introduction does not encompass my entire story, challenges and experiences acquired.
+ 
+But I'm sure that with a conversation, we can get to know each other better!
+ 
+Career in development in the area of Information Technology, focused on Systems Analysis and Development.
+ 
+I worked on applications with high traffic and daily visits. I worked in large companies such as the Sênior Sistemas software factory, Grupo NDTV - Record TV, Força Aérea Brasileira, Grupo Fontes and others.
+ 
+I have solid knowledge in systems and server programming, application scalability, communications via API, agile methodologies, Java, Angular, HTML/CSS/JavaScript, databases, Spring Boot, APIs and DevOps.
+ 
+I am looking for an innovative and dynamic team, where I can contribute my knowledge and experience to the development of cutting-edge solutions. I value an environment that promotes continuous learning, professional growth and best development practices. If you're looking for someone passionate about overcoming obstacles and creating positive impact through technology, I'd love to be part of your team.
+ 
+I am constantly developing my skills and knowledge, aiming for technical improvement in new technologies and frameworks.
+ 
+I'm currently studying Python, Nodejs, React and Javascript in more depth.
+ 
+I like learning new things, I have a good level of concentration. I am very curious, disciplined, patient and resilient to face challenges.
+I like working on problem solving.
+ 
+ 
+So, let's talk about how I can contribute to your company?
 
 <a href="https://wagnerpedroso.github.io/index.html" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">personal website link</a>    
 
