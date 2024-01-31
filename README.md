@@ -1,22 +1,22 @@
-### Here, a brief description of my professional skills and previous experiences. But I emphasize that this brief introduction does not encompass my entire story, challenges and experiences acquired.
+### I share a brief insight into my professional skills and past experiences. However, I emphasize that this introduction is just a summary and does not fully cover my trajectory, challenges overcome and lessons learned over the years.
+
+But I'm sure that a more in-depth conversation will enable a more complete understanding of my professional journey and the contributions I can offer.
+
+I remain available for future interactions and look forward to the opportunity to share more about my story and discover how I can add value...
  
-But I'm sure that with a conversation, we can get to know each other better!
- 
-Career in development in the area of Information Technology, focused on Systems Analysis and Development.
- 
-I worked on applications with high traffic and daily visits. I worked in large companies such as the Sênior Sistemas software factory, Grupo NDTV - Record TV, Força Aérea Brasileira, Grupo Fontes and others.
- 
-I have solid knowledge in systems and server programming, application scalability, communications via API, agile methodologies, Java, Angular, HTML/CSS/JavaScript, databases, Spring Boot, APIs and DevOps.
- 
+Career developed in the area of Information Technology, with specialization in Systems Analysis and Development.
+
+Throughout my journey, I had the privilege of contributing to the success of applications with high traffic and daily visits, playing strategic roles in renowned organizations. I highlight my work at the Sênior Sistemas Software factory, Grupo NDTV - Record TV, Força Aérea Brasileira, Grupo Fontes, among others.
+
+I have solid knowledge in systems and server programming, with expertise in application scalability, communications via API, agile methodologies and several essential technologies, including Java, Python, Angular, HTML/CSS/JavaScript, databases, Spring Boot, APIs and DevOps practices.
+
+Experience from conception to implementation of innovative solutions, always aiming for efficiency, safety and performance.
+
 I am looking for an innovative and dynamic team, where I can contribute my knowledge and experience to the development of cutting-edge solutions. I value an environment that promotes continuous learning, professional growth and best development practices. If you're looking for someone passionate about overcoming obstacles and creating positive impact through technology, I'd love to be part of your team.
  
 I am constantly developing my skills and knowledge, aiming for technical improvement in new technologies and frameworks.
  
-I'm currently studying Python, Nodejs, React and Javascript in more depth.
- 
-I like learning new things, I have a good level of concentration. I am very curious, disciplined, patient and resilient to face challenges.
-I like working on problem solving.
- 
+I'm currently studying Python, Django, Nodejs, React and Javascript in more depth.
  
 So, let's talk about how I can contribute to your company?
 
